@@ -9,5 +9,6 @@
 * [Everything](https://www.voidtools.com/zh-cn/) 高效搜索工具。
 * [Geek Uninstaller](https://geekuninstaller.com/download) 卸载工具，卸载之后扫描安装目录以及注册列表。
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) 科学上网工具。
+* [Office Tool Plus](https://otp.landian.vip/zh-cn/) 一键部署Office套件。
 
 # Android
