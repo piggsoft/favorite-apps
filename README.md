@@ -11,5 +11,6 @@
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) 科学上网工具。
 * [Office Tool Plus](https://otp.landian.vip/zh-cn/) 一键部署Office套件。
 * [Kmspro](https://github.com/dylanbai8/kmspro) windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
+* [Anki](https://apps.ankiweb.net/) 高效记忆卡片工具。
 
 # Android
