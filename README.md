@@ -17,6 +17,7 @@
 * [DevToys](https://github.com/veler/DevToys) 开发人员的瑞士军刀。
 * [rustdesk](https://github.com/rustdesk/rustdesk) 一款基于rust开源的远程桌面工具。
 * [Motrix](https://github.com/agalwood/Motrix) 一款全能的下载工具
+* [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) https://github.com/lyswhut/lx-music-desktop
 
 # Android
 * [Legado / 开源阅读](https://github.com/gedoor/legado) ❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
