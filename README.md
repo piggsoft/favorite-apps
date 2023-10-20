@@ -13,5 +13,6 @@
 * [Kmspro](https://github.com/dylanbai8/kmspro) windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
 * [Anki](https://apps.ankiweb.net/) 高效记忆卡片工具。
 * [TV live](https://github.com/fanmingming/live) 国内电视直播源整理。
+* [SteamTools / Watt Toolkit](https://github.com/BeyondDimension/SteamTools) 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。可对steam商店网络加速。
 
 # Android
