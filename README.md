@@ -8,6 +8,6 @@
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) 干净的Nvidia驱动安装。最干净的安装只有500M+。
 * [Everything](https://www.voidtools.com/zh-cn/) 高效搜索工具。
 * [Geek Uninstaller](https://geekuninstaller.com/download) 卸载工具，卸载之后扫描安装目录以及注册列表。
-* [Clash][https://github.com/Fndroid/clash_for_windows_pkg] 科学上网工具。
+* [Clash](https://github.com/Fndroid/clash_for_windows_pkg) 科学上网工具。
 
 # Android
