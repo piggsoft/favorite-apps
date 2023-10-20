@@ -3,6 +3,8 @@
 
 # Windows
 * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-* 
+* [YesPlayMusic](https://github.com/qier222/YesPlayMusic) 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+* [WizTree](https://diskanalyzer.com/) 高效的分析存储占用，方便进行存储空间优化。
+* [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) 干净的Nvidia驱动安装。最干净的安装只有500M+。
 
 # Android
