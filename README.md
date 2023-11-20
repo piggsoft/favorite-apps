@@ -19,6 +19,7 @@
 * [Motrix](https://github.com/agalwood/Motrix) 一款全能的下载工具
 * [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) https://github.com/lyswhut/lx-music-desktop
 * [Sniptool](https://www.reasyze.com/Sniptool) 一款小巧、轻量且功能强大的截图软件，编辑功能强大，且能在上加入数字序号。
+* [SwitchHosts](https://github.com/oldj/SwitchHosts) SwitchHosts 是一个管理 hosts 文件的应用，基于 Electron 、React、Jotai 、Chakra UI、CodeMirror 等技术开发。
 
 # Android
 * [Legado / 开源阅读](https://github.com/gedoor/legado) ❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
