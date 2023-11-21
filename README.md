@@ -11,7 +11,7 @@
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) 科学上网工具。
 * [Office Tool Plus](https://otp.landian.vip/zh-cn/) 一键部署Office套件。
 * [Kmspro](https://github.com/dylanbai8/kmspro) windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
-* [Anki](https://apps.ankiweb.net/) 高效记忆卡片工具。
+* [Anki](https://apps.ankiweb.net/) 高效记忆卡片工具。[AnkiDroid](https://github.com/ankidroid/Anki-Android) Anki半官方安卓客户端。[Anki共享卡片组](https://ankiweb.net/shared/decks)
 * [TV live](https://github.com/fanmingming/live) 国内电视直播源整理。
 * [SteamTools / Watt Toolkit](https://github.com/BeyondDimension/SteamTools) 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。可对steam店网络加速。
 * [DevToys](https://github.com/veler/DevToys) 开发人员的瑞士军刀。
